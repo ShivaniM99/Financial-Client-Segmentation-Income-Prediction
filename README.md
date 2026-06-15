@@ -1,6 +1,5 @@
 # Census Data Analysis - README
 
-**Project:** Take Home Assignment  
 **Author:** Shivani Madan  
 **Email:** shivanimadan1099@gmail.com
 
